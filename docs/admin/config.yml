@@ -28,7 +28,7 @@ collections:
     - {label: "Summary", name: "summary", widget: "string"}
     - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "Game Systems"
+  - name: "1 - Game Systems"
     label: "Game Systems"
     folder: "docs/system"
     create: true
@@ -38,7 +38,7 @@ collections:
       - {label: "Summary", name: "summary", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "Char Overview"
+  - name: "2 - Char Overview"
     label: "Char Overview"
     folder: "docs/overview"
     create: true
@@ -48,7 +48,7 @@ collections:
       - {label: "Summary", name: "summary", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "Game Plans"
+  - name: "3 - Game Plans"
     label: "Game Plans"
     folder: "docs/gameplan"
     create: true
@@ -58,7 +58,7 @@ collections:
       - {label: "Summary", name: "summary", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "Combos"
+  - name: "4 - Combos"
     label: "Combos"
     folder: "docs/combos"
     create: true
@@ -69,7 +69,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
 
 
-  - name: "Frame Data"
+  - name: "5 - Frame Data"
     label: "Frame Data"
     folder: "docs/framedata"
     create: true
