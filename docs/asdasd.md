@@ -1,5 +1,5 @@
 ---
-title: asdasd
+title: Home
 summary: asdfsdgdafsg
 ---
 dfSDFAfrgdaerfgbARGAERFAERGAsss
