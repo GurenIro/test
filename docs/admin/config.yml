@@ -28,9 +28,9 @@ collections:
     - {label: "Summary", name: "summary", widget: "string"}
     - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "Characters"
-    label: "Characters"
-    folder: "docs/characters"
+  - name: "Game Systems"
+    label: "Game Systems"
+    folder: "docs/system"
     create: true
     slug: "{{slug}}"
     fields:
@@ -38,9 +38,40 @@ collections:
       - {label: "Summary", name: "summary", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "System"
-    label: "System"
-    folder: "docs/system"
+  - name: "Char Overview"
+    label: "Char Overview"
+    folder: "docs/overview"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Summary", name: "summary", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "Game Plans"
+    label: "Game Plans"
+    folder: "docs/gameplan"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Summary", name: "summary", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "Combos"
+    label: "Combos"
+    folder: "docs/combos"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Summary", name: "summary", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+
+  - name: "Frame Data"
+    label: "Frame Data"
+    folder: "docs/framedata"
     create: true
     slug: "{{slug}}"
     fields:
