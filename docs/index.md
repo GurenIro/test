@@ -1,5 +1,5 @@
 ---
-title: Change docs/index.md
+title: wat
 summary: Change This
 ---
 # Changing the Site URL
