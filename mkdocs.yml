@@ -45,6 +45,8 @@ nav:
      - Offense in GGRev2: '1-System/offense-in-ggxrd-rev2.md'
      - Defense in GGRev2: '1-System/defense-in-ggxrd-rev2.md'
    - Character Overview:
+     - I-No: '2-Overview/i-no.md'
+     - Ky Kiske: '2-Overview/ky.md'
      - Sol Badguy: '2-Overview/sol.md'
    - Gameplan:
      - Johnny: '3-Gameplan/johnny.md'
