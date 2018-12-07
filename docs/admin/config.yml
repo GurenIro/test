@@ -88,3 +88,13 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Summary", name: "summary", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+      
+  - name: "1 - Game Systems/Glossary"
+    label: "1 - Game Systems/Glossary"
+    folder: "docs/1-System/Glossary"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Summary", name: "summary", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
