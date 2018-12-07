@@ -2,4 +2,6 @@
 title: Index
 summary: Home
 ---
-Q taconesendo
+#This is a test wiki
+
+Welcome to Guilty Gear Xrd Wiki
