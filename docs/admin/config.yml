@@ -29,8 +29,8 @@ collections:
     - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "1 - Game Systems"
-    label: "Game Systems"
-    folder: "docs/system"
+    label: "1 - Game Systems"
+    folder: "docs/1 - system"
     create: true
     slug: "{{slug}}"
     fields:
@@ -39,8 +39,8 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "2 - Char Overview"
-    label: "Char Overview"
-    folder: "docs/overview"
+    label: "2 - Char Overview"
+    folder: "docs/2 - overview"
     create: true
     slug: "{{slug}}"
     fields:
@@ -49,8 +49,8 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "3 - Game Plans"
-    label: "Game Plans"
-    folder: "docs/gameplan"
+    label: "3 - Game Plans"
+    folder: "docs/3 - gameplan"
     create: true
     slug: "{{slug}}"
     fields:
@@ -59,8 +59,8 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "4 - Combos"
-    label: "Combos"
-    folder: "docs/combos"
+    label: "4 - Combos"
+    folder: "docs/4 - combos"
     create: true
     slug: "{{slug}}"
     fields:
@@ -70,8 +70,8 @@ collections:
 
 
   - name: "5 - Frame Data"
-    label: "Frame Data"
-    folder: "docs/framedata"
+    label: "5 - Frame Data"
+    folder: "docs/5 - framedata"
     create: true
     slug: "{{slug}}"
     fields:
