@@ -44,7 +44,8 @@ nav:
      - Notions of Neutral Game: '1-System/notions-about-neutral-game.md'
      - Offense in GGRev2: '1-System/offense-in-ggxrd-rev2.md'
      - Defense in GGRev2: '1-System/defense-in-ggxrd-rev2.md'
-     - Glossary: '1-System/glossary.md'
+     - Glossary:
+        - Glossary: '1-System/glossary.md'
    - Character Overview:
      - I-No: '2-Overview/i-no.md'
      - Ky Kiske: '2-Overview/ky.md'
