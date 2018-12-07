@@ -30,7 +30,7 @@ collections:
 
   - name: "1 - Game Systems"
     label: "1 - Game Systems"
-    folder: "docs/1 - system"
+    folder: "docs/1-System"
     create: true
     slug: "{{slug}}"
     fields:
@@ -40,7 +40,7 @@ collections:
 
   - name: "2 - Char Overview"
     label: "2 - Char Overview"
-    folder: "docs/2 - overview"
+    folder: "docs/2-Overview"
     create: true
     slug: "{{slug}}"
     fields:
@@ -50,7 +50,7 @@ collections:
 
   - name: "3 - Game Plans"
     label: "3 - Game Plans"
-    folder: "docs/3 - gameplan"
+    folder: "docs/3-Gameplan"
     create: true
     slug: "{{slug}}"
     fields:
@@ -60,7 +60,7 @@ collections:
 
   - name: "4 - Combos"
     label: "4 - Combos"
-    folder: "docs/4 - combos"
+    folder: "docs/4-Combos"
     create: true
     slug: "{{slug}}"
     fields:
@@ -71,7 +71,7 @@ collections:
 
   - name: "5 - Frame Data"
     label: "5 - Frame Data"
-    folder: "docs/5 - framedata"
+    folder: "docs/5-Framedata"
     create: true
     slug: "{{slug}}"
     fields:
