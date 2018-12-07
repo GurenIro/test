@@ -19,7 +19,7 @@ theme:
   name: 'material'
   custom_dir: 'theme'
   palette:
-    primary: 'Blue Grey'
+    primary: 'Green Grey'
     accent: 'Cyan'
 
 extra_css:
