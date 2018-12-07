@@ -40,7 +40,10 @@ markdown_extensions:
 nav:
    - Home: 'index.md'
    - System:
-     - System: '1-System/basics.md'
+     - Basics: '1-System/basics.md'
+     - Notions of Neutral Game: '1-System/notions-about-neutral-game.md'
+     - Offense in GGRev2: '1-System/offense-in-ggxrd-rev2.md'
+     - Defense in GGRev2: '1-System/defense-in-ggxrd-rev2.md'
    - Character Overview:
      - Sol Badguy: '2-Overview/sol.md'
    - Gameplan:
