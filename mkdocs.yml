@@ -25,6 +25,10 @@ theme:
 extra_css:
   - stylesheets/dark_theme.css
   - stylesheets/codehilite.css
+  
+#extensions
+markdown_extensions:
+  - admonition
 
 # You can set custom order for the nav items (side menu)
 # If you don't put anything, the menu will be built automatically
